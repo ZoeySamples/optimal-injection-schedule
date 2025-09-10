@@ -17,3 +17,8 @@ determined by the user-specified parameters, for each person listed. It
 considers every possible permutation of doses, within these parameters, so as
 to minimize total medication waste. When the simulation is concluded, it
 displays the most optimal outcomes.
+
+To run the program, make sure optimal_injections.py and simulator.py are in the
+same folder. Open optimal_injections.py and adjust the parameters and details
+for each person's dosage, adding or removing people as desired. The example
+included in the script runs out-of-the-box.
